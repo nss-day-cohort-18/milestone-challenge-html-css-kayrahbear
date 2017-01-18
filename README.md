@@ -25,4 +25,4 @@ Create a site for your own personal branding. Keep in mind this is an HTML exerc
 1. Appropriate folder structure: images, css.
   * **[Done]**
 
-**[Site can also be viewed at www.kaylabrewer.com]**
+**[Site can also be viewed at www.kaylabrewer.com. Site is responsive with 2 breakpoints]**
